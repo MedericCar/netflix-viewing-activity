@@ -1,9 +1,11 @@
 # netflix-data-analysis
 
-Python script to visualize a netflix's account viewing activity data over a year in two different ways: a bar diagram or a heatmap.
+Python script to visualize a netflix's account viewing activity data over a year in two different ways:
 
+### Bar diagram
 ![](Bar.png)
 
+### Heatmap
 ![](Heatmap.png)
 
 
