@@ -1,4 +1,4 @@
-# netflix-data-analysis
+# netflix-viewing-activity
 
 Python script to visualize a netflix's account viewing activity data over a year in two different ways:
 
