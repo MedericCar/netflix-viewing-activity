@@ -2,9 +2,9 @@
 
 Python script to visualize a netflix's account viewing activity data over a year in two different ways: a bar diagram or a heatmap.
 
-![](image.png)
+![](Bar.png)
 
-![](image.png)
+![](Heatmap.png)
 
 
 ## Getting Started
